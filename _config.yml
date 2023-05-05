@@ -6,28 +6,17 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Jasleen Kaur Chahal
+title: Software Engineer/Software Developer (M.S, B.S)
+email: chahaljasleen18@gmail.com
+website: https://jasleenkaurchahal.github.io/Resume
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+github_username:  jasleenkaurchahal
+linkedin_username: jasleen-kaur-chahal
 
 # Additional icon links
 additional_links:
@@ -48,7 +37,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Jasleen and as a recent Master's in Data Science graduate from the University of Michigan, I bring three years of experience in software development to the table. I am actively seeking full-time employment in the areas of Data Science, Front-end, Embedded Software Development or Full-stack Development where I can leverage my technical expertise and passion for problem-solving to make valuable contributions to your team.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -76,16 +65,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
+        title: Magna Electronics Inc. (Aurburn Hills, MI)
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Student Software Engineering
+        caption: September 2021 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+            Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
+            - Developed object-oriented software for multi-core embedded systems, focusing on ADAS and SVS.
+            - Supported testing, verification, and integration for embedded hardware systems to ensure proper functionality and performance.
+            - Developed automated analysis and reporting methods using Python, MATLAB scripting, and Batch to improve efficiency and accuracy of testing.
+            - Debugged, performed DDR testing, MIPI analysis, and verified ECU using CANalyzer tool to identify and resolve issues.
+            - Flashed the latest software on ECU using Lauterbach, vFlash, and Vector CAN Box to ensure the latest software updates were installed.
+            - Updated code on GitHub and performed code-integration for Jenkins and PTC to maintain proper version control and streamline the development process.
+            - Contributed to the development of high-quality software products using software engineering principles and practices.
+            - Collaborated with cross-functional teams to achieve project goals and meet deadlines.
+            - Demonstrated strong problem-solving skills and attention to detail to identify and troubleshoot software issues.
+            - Utilized excellent communication skills to effectively document and present findings to team members and management.
+            - Demonstrated a strong work ethic, adaptability, and willingness to learn in a fast-paced work environment.
+            - Learned and became proficient in different technical areas, including object-oriented software development, real-time embedded development for multi-core and multi-processor systems, development for multiple operating systems (Linux, Windows), cyber security/product protections, image/signal processing, image/data fusion, and application development to support test and verification.
+            - Joined a team of software professionals, implementing cutting-edge technologies on both existing and new development products related to autonomous driving.
+            - Performed all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
+            - Supported scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
+            - Debugged real-time ADAS safety-critical applications.
+            
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
