@@ -66,10 +66,10 @@ content:
     content:
       - layout: left
         title: Magna Electronics Inc. (Aurburn Hills, MI)
-        link: boringcompany.com
-        # link_text: boringcompany.com
+        link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
+        link_text: Website
         sub_title: Student Software Engineering
-        caption: September 2021 - Present
+        caption: September 2022 - Present
         quote: >
             Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
         description: | # this will include new lines to allow paragraphs
@@ -82,13 +82,11 @@ content:
             - Contributed to the development of high-quality software products using software engineering principles and practices.
             - Collaborated with cross-functional teams to achieve project goals and meet deadlines.
             - Demonstrated strong problem-solving skills and attention to detail to identify and troubleshoot software issues.
-            - Utilized excellent communication skills to effectively document and present findings to team members and management.
             - Demonstrated a strong work ethic, adaptability, and willingness to learn in a fast-paced work environment.
             - Learned and became proficient in different technical areas, including object-oriented software development, real-time embedded development for multi-core and multi-processor systems, development for multiple operating systems (Linux, Windows), cyber security/product protections, image/signal processing, image/data fusion, and application development to support test and verification.
             - Joined a team of software professionals, implementing cutting-edge technologies on both existing and new development products related to autonomous driving.
             - Performed all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
             - Supported scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
-            - Debugged real-time ADAS safety-critical applications.
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
