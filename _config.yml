@@ -61,6 +61,27 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Michigan
+        caption: September 2021 - April 2023
+        sub_title: MS in Data Science
+#         quote: >
+#           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at UofM, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
+
+      - layout: left
+        title: Chitkara University 
+        caption: July 2016 - July 2020
+        sub_title: BE (Computer Science and Engineering)
+        description: | 
+         The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
+
+
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -139,25 +160,6 @@ content:
             - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
             - Led project management through GitLab, Github, JiraBoard and client meetings.            
             
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: University of Michigan
-        caption: September 2021 - April 2023
-        sub_title: MS in Data Science
-#         quote: >
-#           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at UofM, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
-
-      - layout: left
-        title: Chitkara University 
-        caption: July 2016 - July 2020
-        sub_title: BE (Computer Science and Engineering)
-        description: | 
-         The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
-
 
   - title: A Little More About Me
     layout: text
