@@ -68,7 +68,7 @@ content:
         title: Magna Electronics Inc. (Aurburn Hills, MI)
         link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
         link_text: Website
-        sub_title: Student Software Engineering
+        sub_title: Student Software Engineer
         caption: September 2022 - Present
         quote: >
             Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
@@ -105,12 +105,12 @@ content:
           
       - layout: left
         title: GeekyAnts Pvt Ltd (India)
-        link: https://bluestampengineering.com/
+        link: https://geekyants.com/
         link_text: Website
         sub_title: Software Developer
-        caption: March 2019 - August 2021
+        caption: June 2020 - August 2021
         quote: >
-            BlueStamp Engineering is an immersive, hands on technology program in which students take the lead by individually selecting a project they are passionate about
+            GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
         description: | 
             - Developed mobile applications using React Native and Flutter.
             - Led the technical presentations of the project with clients.
@@ -120,6 +120,24 @@ content:
             - Coded apps using React, Flutter, React Native projects.
             - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
             - Led project management through GitLab, Github, JiraBoard and client meetings.
+            
+      - layout: left
+        title: GeekyAnts Pvt Ltd (India)
+        link: https://geekyants.com/
+        link_text: Website
+        sub_title: Software Developer Intern
+        caption: March 2019 - May 2020
+        quote: >
+            GeekyAnts is a global leading web and mobile app development company that offers design and development services to help your business transform digitally.        
+        description: | 
+            - Developed mobile applications using React Native and Flutter.
+            - Led the technical presentations of the project with clients.
+            - Designed UI, API integration, and State management for application development.
+            - Performed Unit testing for applications.
+            - Developed several client projects like Taxi App, Music, Food Delivery Apps.
+            - Coded apps using React, Flutter, React Native projects.
+            - Developed apps using Redux, GraphQL, MobX, MobX state tree, Firebase, AWS
+            - Led project management through GitLab, Github, JiraBoard and client meetings.            
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
