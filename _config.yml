@@ -90,7 +90,7 @@ content:
             
       - layout: left
         title: BlueStamp Engineering (Remote, USA)
-        link: https://bluestampengineering.com/
+        link: <a href="https://bluestampengineering.com/">BlueStamp</a>
         link_text: Website
         sub_title: Engineering Instructor
         caption: June 2022 - August 2022
