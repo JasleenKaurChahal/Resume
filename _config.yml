@@ -192,14 +192,7 @@ content:
         sub_title: BE (Computer Science and Engineering)
         description: | 
          The coursework included core courses in <mark>programming languages</mark>, <mark>database systems</mark>, <mark>operating systems</mark>, <mark>networking</mark> , <mark>algorithms and data structures</mark>, <mark>web development</mark> and <mark>engineering mathematics</mark>.
-  
- - title: Skills
-    layout: list
-    content:
-      - layout: left
-        caption: Programming Languages
-        content: 
-            C, C++, Data Structures, React Native, Flutter, Python, R
+
   
   - title: Certifications
     layout: text
