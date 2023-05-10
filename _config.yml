@@ -82,15 +82,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Magna Electronics Inc. (Aurburn Hills, MI)
-        link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
-        link_text: Website
-        sub_title: Student Software Engineer
-        caption: September 2022 - Present
-        quote: >
-            Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
+#         title: Magna Electronics Inc. (Aurburn Hills, MI)
+#         link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
+#         link_text: Website
+#         sub_title: Programming Languages: 
+#         caption: September 2022 - Present
+#         quote: >
+#             Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
         description: | # this will include new lines to allow paragraphs
-            - Developed             
+            - Programming Languages: <mark>C, C++, Data Structures, React Native, Flutter, Python, R</mark>         
+            - Operating Systems: <mark>Windows, Linux, MacOS, Raspberry Pi, Arduino</mark>  
+            - Databases: <mark>MySQL, MongoDB</mark>
+            - Front End tooling workflows: <mark>Node.js, Yarn/npm, webpack, and Babel</mark>
+            - Web Technologies: <mark>HTML, CSS, JavaScript, React, Node.js (Express), Google Cloud (GCP), AWS</mark>
+            - State Management: <mark>GraphQl, MobX, MobX State tree, Zustand, Redux</mark>
+            - Platforms: <mark>Jupyter-notebook, MATLAB, Android Studio, Xcode, Visual Studio Code, Git, CANoe, Jira</mark>
+            - Data-Tools: <mark>MATLAB, Regression Analysis, Model Building, AI, Deep Learning, Data Security & Privacy, PyTorch, Docker</mark>
+            
             
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
