@@ -93,6 +93,20 @@ content:
             icon: fab fa-github
             url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
             
+  - title:  Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Magna Electronics Inc. (Aurburn Hills, MI)
+        link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
+        link_text: Website
+        sub_title: Student Software Engineer
+        caption: September 2022 - Present
+        quote: >
+            Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
+        description: | # this will include new lines to allow paragraphs
+            - Developed             
+            
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
