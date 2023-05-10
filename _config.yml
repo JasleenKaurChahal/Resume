@@ -193,12 +193,20 @@ content:
         description: | 
          The coursework included core courses in <mark>programming languages</mark>, <mark>database systems</mark>, <mark>operating systems</mark>, <mark>networking</mark> , <mark>algorithms and data structures</mark>, <mark>web development</mark> and <mark>engineering mathematics</mark>.
   
+ - title: Skills
+    layout: list
+    content:
+      - layout: left
+        caption: Programming Languages
+        content: 
+            C, C++, Data Structures, React Native, Flutter, Python, R
+  
   - title: Certifications
     layout: text
     content: |
-      - [Nanodegree in React from Udacity][https://confirm.udacity.com/LGRF6CJQ]
-      - [Python from HackerRank][https://www.hackerrank.com/certificates/bce6b37faecc]
-      - [Python from TestDome][https://app.testdome.com/cert/38241b9d70774b53804face379447a31]
+      - [Nanodegree in React from Udacity](https://confirm.udacity.com/LGRF6CJQ)
+      - [Python from HackerRank](https://www.hackerrank.com/certificates/bce6b37faecc)
+      - [Python from TestDome](https://app.testdome.com/cert/38241b9d70774b53804face379447a31)
             
   - title: A Little More About Me
     layout: text
@@ -212,10 +220,6 @@ content:
       - Ability to develop strong, working relationships across all levels and deliver solid results.
       - Excellent verbal and written communication skills; ability to communicate clearly and effectively to all levels of the organization.
       - Passion for design and product.
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
