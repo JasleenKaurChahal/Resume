@@ -82,7 +82,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: [Magna Electronics Inc. (Aurburn Hills, MI)](https://www.magna.com/company/company-information/magna-groups/magna-electronics)
+        title: Magna Electronics Inc. (Aurburn Hills, MI)
         link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
         link_text: Website
         sub_title: Student Software Engineer
