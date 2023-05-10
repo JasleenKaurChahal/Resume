@@ -77,15 +77,6 @@ content:
             icon: fab fa-github
             url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
             
-      - layout: top-middle
-        title: Student Projects as an Instructor
-        link: https://tigerfuzz.github.io/Phone-Controlled-Robot-Arm/
-        link: https://sohithm.github.io/BSE-portfolio-project-218-/
-        link: https://rahulsinghv30.github.io/TwitchBot/
-        additional_links:
-          - title: St2Vec_Implemnentation
-            icon: fab fa-github
-            url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
             
   - title:  Skills # Title for the section
     layout: list # Type of content section (list/text)
