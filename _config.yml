@@ -41,14 +41,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>      
       
-content:  
-- title: Skills # Title for the section
-  layout: text
-  content:
-      - layout: left
-        sub_title: Programming Languages
-        description: <mark>C,C++, Data Structures, React Native, Flutter, Python, R</mark>          
-        
+content:      
   - title: Projects
     layout: list # Type of content section (list/text)
     content:
