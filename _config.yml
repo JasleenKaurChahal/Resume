@@ -37,10 +37,19 @@ additional_links:
 # about_title: About Me
 about_profile_image: profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Jasleen and as a recent Master's in Data Science graduate from the University of Michigan, I bring three years of experience in software development to the table. I am actively seeking full-time employment in the areas of Data Science, Front-end, Embedded Software Development or Full-stack Development where I can leverage my technical expertise and passion for problem-solving to make valuable contributions to your team.
-
- # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>      
-      
+  Hi, my name is Jasleen and as a recent Master's in Data Science graduate from the University of Michigan, I bring three years of experience in software development to the table. I am actively seeking full-time employment in the areas of Data Science, Front-end, Embedded Software Development or Full-stack Development where I can leverage my technical expertise and passion for problem-solving to make valuable contributions to your team.    
+  
+  My top skills are:
+  
+     - Programming Languages: <mark>C, C++, Data Structures, React Native, Flutter, Python, R</mark>         
+     - Operating Systems: <mark>Windows, Linux, MacOS, Raspberry Pi, Arduino</mark>  
+     - Databases: <mark>MySQL, MongoDB</mark>
+     - Front End tooling workflows: <mark>Node.js, Yarn/npm, webpack, and Babel</mark>
+     - Web Technologies: <mark>HTML, CSS, JavaScript, React, Node.js (Express), Google Cloud (GCP), AWS</mark>
+     - State Management: <mark>GraphQl, MobX, MobX State tree, Zustand, Redux</mark>
+     - Platforms: <mark>Jupyter-notebook, MATLAB, Android Studio, Xcode, Visual Studio Code, Git, CANoe, Jira</mark>
+     - Data-Tools: <mark>MATLAB, Regression Analysis, Model Building, AI, Deep Learning, Data Security & Privacy, PyTorch, Docker</mark>
+     
 content:      
   - title: Projects
     layout: list # Type of content section (list/text)
@@ -77,28 +86,7 @@ content:
             icon: fab fa-github
             url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
             
-            
-  - title:  Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-#         title: Magna Electronics Inc. (Aurburn Hills, MI)
-#         link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
-#         link_text: Website
-#         sub_title: Programming Languages: 
-#         caption: September 2022 - Present
-#         quote: >
-#             Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
-        description: | # this will include new lines to allow paragraphs
-            - Programming Languages: <mark>C, C++, Data Structures, React Native, Flutter, Python, R</mark>         
-            - Operating Systems: <mark>Windows, Linux, MacOS, Raspberry Pi, Arduino</mark>  
-            - Databases: <mark>MySQL, MongoDB</mark>
-            - Front End tooling workflows: <mark>Node.js, Yarn/npm, webpack, and Babel</mark>
-            - Web Technologies: <mark>HTML, CSS, JavaScript, React, Node.js (Express), Google Cloud (GCP), AWS</mark>
-            - State Management: <mark>GraphQl, MobX, MobX State tree, Zustand, Redux</mark>
-            - Platforms: <mark>Jupyter-notebook, MATLAB, Android Studio, Xcode, Visual Studio Code, Git, CANoe, Jira</mark>
-            - Data-Tools: <mark>MATLAB, Regression Analysis, Model Building, AI, Deep Learning, Data Security & Privacy, PyTorch, Docker</mark>
-            
+   
             
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
