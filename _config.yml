@@ -39,7 +39,7 @@ about_profile_image: profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Jasleen and as a recent Master's in Data Science graduate from the University of Michigan, I bring three years of experience in software development to the table. I am actively seeking full-time employment in the areas of Data Science, Front-end, Embedded Software Development or Full-stack Development where I can leverage my technical expertise and passion for problem-solving to make valuable contributions to your team.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>      
+ # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>      
       
 content:      
   - title: Projects
@@ -82,7 +82,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Magna Electronics Inc. (Aurburn Hills, MI)
+        title: [Magna Electronics Inc. (Aurburn Hills, MI)](https://www.magna.com/company/company-information/magna-groups/magna-electronics)
         link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
         link_text: Website
         sub_title: Student Software Engineer
