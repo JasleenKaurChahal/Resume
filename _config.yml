@@ -52,7 +52,7 @@ content:
           - title: St2Vec_Implemnentation
             icon: fab fa-github
             url: github.com/JasleenKaurChahal/St2Vec_Implemnentation
-            
+     content:       
       - layout: right #top-middle
         title: St2Vec Implementation
         link: https://github.com/JasleenKaurChahal/St2Vec_Implemnentation
