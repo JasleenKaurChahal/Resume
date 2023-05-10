@@ -43,12 +43,11 @@ about_content: | # this will include new lines to allow paragraphs
       
 content:  
 - title: Skills # Title for the section
-  layout: list
-   content:
+  layout: text
+  content:
       - layout: left
         sub_title: Programming Languages
-        description: <mark>C,C++, Data Structures, React Native, Flutter, Python, R</mark>
-        
+        description: <mark>C,C++, Data Structures, React Native, Flutter, Python, R</mark>          
         
   - title: Projects
     layout: list # Type of content section (list/text)
