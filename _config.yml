@@ -22,7 +22,7 @@ linkedin_username: jasleen-kaur-chahal
 additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://jasleenkaurchahal.github.io/Portfolio/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -119,11 +119,7 @@ content:
             - Debugged, performed DDR testing, MIPI analysis, and verified ECU using CANalyzer tool to identify and resolve issues.
             - Flashed the latest software on ECU using Lauterbach, vFlash, and Vector CAN Box to ensure the latest software updates were installed.
             - Updated code on GitHub and performed code-integration for Jenkins and PTC to maintain proper version control and streamline the development process.
-            - Contributed to the development of high-quality software products using software engineering principles and practices.
             - Collaborated with cross-functional teams to achieve project goals and meet deadlines.
-            - Demonstrated strong problem-solving skills and attention to detail to identify and troubleshoot software issues.
-            - Learned and became proficient in different technical areas, including object-oriented software development, real-time embedded development for multi-core and multi-processor systems, development for multiple operating systems (Linux, Windows), cyber security/product protections, image/signal processing, image/data fusion, and application development to support test and verification.
-            - Joined a team of software professionals, implementing cutting-edge technologies on both existing and new development products related to autonomous driving.
             - Performed all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
             - Supported scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
             
@@ -195,16 +191,27 @@ content:
         caption: July 2016 - July 2020
         sub_title: BE (Computer Science and Engineering)
         description: | 
-         The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
-        
+         The coursework included core courses in <mark>programming languages</mark>, <mark>database systems</mark>, <mark>operating systems</mark>, <mark>networking</mark> , <mark>algorithms and data structures</mark>, <mark>web development</mark> and <mark>engineering mathematics</mark>.
+  
+  - title: Certifications
+    layout: text
+    content: |
+      - [Nanodegree in React from Udacity][https://confirm.udacity.com/LGRF6CJQ]
+      - [Python from HackerRank][https://www.hackerrank.com/certificates/bce6b37faecc]
+      - [Python from TestDome][https://app.testdome.com/cert/38241b9d70774b53804face379447a31]
             
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+      Alongside my interests in data science and software engineering some of my achievements and strengths:
+      - Bagged Second Rankin State Level Science Exhibition (2015-2016)
+      - President's List- Four semesters, Dean's List- Four semesters
+      - Event Coordinator for UNICEF club in the university
+      - Academic Organizations Representative for SOAC (Student Organization Advisory Council)
+      - Strong project management, problem-solving, and analytical thinking skills.
+      - Ability to develop strong, working relationships across all levels and deliver solid results.
+      - Excellent verbal and written communication skills; ability to communicate clearly and effectively to all levels of the organization.
+      - Passion for design and product.
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
