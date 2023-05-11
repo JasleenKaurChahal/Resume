@@ -107,8 +107,10 @@ content:
             - Flashed the latest software on ECU using Lauterbach, vFlash, and Vector CAN Box to ensure the latest software updates were installed.
             - Updated code on GitHub and performed code-integration for Jenkins and PTC to maintain proper version control and streamline the development process.
             - Collaborated with cross-functional teams to achieve project goals and meet deadlines.
-            - Performed all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
-            - Supported scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
+            - Performing all phases of the Software Development Life Cycle, including design, code, test, integration, verification, and integration support, facilitated by an Agile software development workflow.
+            - Supporting scripting (Python/MATLAB scripting/Batch) to automate embedded development tasks and develop tool documentation.
+            - Using  C, and C++ along with Python as programming languages for software development.
+
             
       - layout: left
         title: BlueStamp Engineering (Remote, USA)
@@ -169,8 +171,6 @@ content:
         title: University of Michigan
         caption: September 2021 - April 2023
         sub_title: MS in Data Science
-#         quote: >
-#           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at UofM, I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance. The coursework included core courses in <mark>data mining</mark>, <mark>statistical modeling</mark>, <mark>artificial intelligence</mark>, <mark>deep learning</mark> , and <mark>machine learning</mark>, as well as elective courses in topics such as <mark>big data analytics</mark> and <mark>natural language processing</mark>.
 
