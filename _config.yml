@@ -91,12 +91,28 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title: L3Harris (Lynchburg, VA)
+        link: https://www.l3harris.com/
+        link_text: Website
+        sub_title: Senior Associate Software Engineer
+        caption: June 2023 - Present
+        quote: >
+              L3Harris transforms challenges into solutions through cutting-edge software development. With a commitment to efficiency, scalability, and collaboration, we pioneer innovations that redefine possibilities in the ever-evolving landscape of technology.         
+        description: | # this will include new lines to allow paragraphs
+            - Developing, testing, and maintaining software solutions for different applications.
+            - Programming efficient, modular, and scalable code in languages such as C and C++
+            - Collaborating with cross-functional teams to integrate software components into larger system
+            - Testing and Debugging software applications
+            - Utilizing Jenkins, Artifactory, and adhering to Agile methodologies for efficient software development
+            - Developing and managing technical documentation, including design specs and user manuals
+
       - layout: left
         title: Magna Electronics Inc. (Aurburn Hills, MI)
         link: https://www.magna.com/company/company-information/magna-groups/magna-electronics
         link_text: Website
-        sub_title: Student Software Engineer
-        caption: September 2022 - Present
+        sub_title: Students Software Engineer
+        caption: September 2022 - June 2023
         quote: >
             Driving the future of automotive technology through the development of cutting-edge software for multi-core embedded systems, with a focus on ADAS and SVS, and utilizing innovative tools and techniques to deliver high-quality products.
         description: | # this will include new lines to allow paragraphs
